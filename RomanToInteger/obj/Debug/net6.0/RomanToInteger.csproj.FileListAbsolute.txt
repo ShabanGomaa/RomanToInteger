@@ -1,0 +1,15 @@
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.exe
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.deps.json
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.runtimeconfig.json
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.dll
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.pdb
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.csproj.AssemblyReference.cache
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.AssemblyInfoInputs.cache
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.AssemblyInfo.cs
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.csproj.CoreCompileInputs.cache
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.dll
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\obj\Debug\net6.0\refint\RomanToInteger.dll
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.pdb
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.genruntimeconfig.cache
+D:\Work\Projects\Challenges && Codility\RomanToInteger\RomanToInteger\RomanToInteger\obj\Debug\net6.0\ref\RomanToInteger.dll
